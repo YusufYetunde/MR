@@ -1,0 +1,9 @@
+node_modules
+# .gitignore in Mr
+
+__pycache__/
+venv/
+*.pyc
+*.pyo
+*.pyd
+
